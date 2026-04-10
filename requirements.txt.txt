@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+nuscenes-devkit
+opencv-python
+numpy
+pydantic-settings
+python-dotenv
